@@ -1,7 +1,7 @@
 class ChicagoPizza:
     
     def get_name(self):
-        return 'Chicago pizza';
+        return 'Chicago pizza'
 
     def get_cheese(self):
         return 'Mozzarella'
